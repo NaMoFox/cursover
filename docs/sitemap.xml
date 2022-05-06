@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://namofox.github.io/cursover/archives/</loc>
+    <loc>https://cursover.netlify.app/archives/</loc>
   </url><url>
-    <loc>https://namofox.github.io/cursover/</loc>
+    <loc>https://cursover.netlify.app/</loc>
   </url><url>
-    <loc>https://namofox.github.io/cursover/categories/</loc>
+    <loc>https://cursover.netlify.app/categories/</loc>
   </url><url>
-    <loc>https://namofox.github.io/cursover/tags/</loc>
+    <loc>https://cursover.netlify.app/tags/</loc>
   </url>
 </urlset>
